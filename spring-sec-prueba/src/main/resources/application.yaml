@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: spring-sec-prueba
+  security:
+    user:
+      name: ${SS_USER}
+      password: ${SS_PASSWORD}
